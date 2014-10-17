@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pey:home|Door43 (pey)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pey|d43-pey repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pey/archive/master.zip|d43-pey.zip]]
+
+**Recent Changes**
+{{changes>ns = pey}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pey|Ethnologue data]]
+
